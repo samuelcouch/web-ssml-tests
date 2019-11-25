@@ -17,6 +17,6 @@ Simple 2
 ```xml
 <?xml version="1.0"?>
     <speak>
-        There are more than<say-as interpret-as="cardinal">100000</say-as> different species of birds in the world. Some of which have wingspans of more than <say-as interpret-as="unit">10 foot</say-as> wide. <prosody pitch="-20Hz">Transpose pitch to 150 Hz</prosody>
+        There are more than<say-as interpret-as="cardinal">100000</say-as> different species of birds in the world. Some of which have wingspans of more than <say-as interpret-as="unit">10 ft</say-as> wide.
     </speak>
 ```
